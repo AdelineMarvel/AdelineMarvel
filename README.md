@@ -1,6 +1,6 @@
 - 👋 Hellaww, I’m @AdelineMarvel
-- 👀 I’m interested in swift
-- 🐍 I’m currently learning python
+- 👀 I’m interested in graphic design and programming especialy web development
+- 🐍 I’m currently learning C#
 - 📫 How to reach me -> Insta: @adelinnmarvell, design project: @arc.rayne
 
 <!---
